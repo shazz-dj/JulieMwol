@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/shazz-devil">shazz-devil</a> to m
 
   <p align="center">
   <a href="httsp://github.com/shazz-devil/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/shazzdevil/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/shazz-devil/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
 <a href="https://github.com/shazz-devil/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shazz-devil/pikachu?color=blue&style=flat-square"></a>
