@@ -187,7 +187,7 @@
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
             "DOWNLOADING_SONG": "\nnjan thappinookkatte chakkare 🤗\n",
-            "UPLOADING_SONG": "\nkittipoyi🙆cheviyil vekkunna sunappi eduthu vekko🎧\n",
+            "UPLOADING_SONG": "\nkittipoyi🙆cheviyil vekkunna sunappi eduthu vecholim🎧\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
@@ -199,7 +199,7 @@
             "SEARCHING": "*🔎 searching...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
-            "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
+            "IMG": "inna pudichoo🤪 ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
@@ -315,7 +315,7 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "video sound mathram akaan.",
             "MP4TOAUDİO_NEEDREPLY": "*Video reply cheyy macha!*",
-            "MP4TOAUDİO": "```Video Audio aaakki maattunnu..```",
+            "MP4TOAUDİO": "```ippo tharaam to..```",
             "STİCKER_DESC": "sticker photo akaan.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
             "STİCKER": "```Converting...```",
