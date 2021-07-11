@@ -52,7 +52,7 @@
         "afk": {
             "AFK_DESC": "ningale AFK aakkum - Away From Keyboard.",
             "IM_AFK": "*njan AFK aan!*",
-            "IM_AFK_NOMD": "njan AFK aan!",
+            "IM_AFK_NOMD": "njan AFK aanu!",
             "REASON": "kaaranam",
             "LAST_SEEN": "avasanam kandath",
             "IM_NOT_AFK": "```njan AFK aan!```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```ippo shriyakkitharaam 🤠```"
+            "DOWNLOADING": "```ippo sheriyakkitharaam 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
